@@ -5,6 +5,7 @@ Over here, I hope you will find something interesting.
 
 ```markdown
 Name: Jianwen Wang
+Research interests: [Computational Electromagnetics](https://en.wikipedia.org/wiki/Computational_electromagnetics)
 # Header 1
 ## Header 2
 ### Header 3
