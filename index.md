@@ -14,7 +14,7 @@ Over here, I hope you will find something interesting.
 ### Info
 - Name: Jianwen Wang
 - Research interest: Computational Electromagnetics (See the [introduction](https://en.wikipedia.org/wiki/Computational_electromagnetics))
-- Contact me by _javonn.wang@gmail.com_
+- Contact me by <javonn.wang@gmail.com>_
 
 ---
 Everything you can imagine is real.
