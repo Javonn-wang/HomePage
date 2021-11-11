@@ -2,7 +2,6 @@
 ---------------------------
 Over here, I hope you will find something interesting.
 
-![pics](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpixfeeds.com%2Fimages%2Fdogs%2F1280-485524896-cute-dog.jpg&refer=http%3A%2F%2Fpixfeeds.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1639230824&t=440314ce6afea7258f2586d95d9cfece)
 
 推荐书籍/笔记：
 
@@ -18,3 +17,6 @@ Over here, I hope you will find something interesting.
 
 ---
 Everything you can imagine is real.
+
+![pics](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpixfeeds.com%2Fimages%2Fdogs%2F1280-485524896-cute-dog.jpg&refer=http%3A%2F%2Fpixfeeds.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1639230824&t=440314ce6afea7258f2586d95d9cfece)
+
