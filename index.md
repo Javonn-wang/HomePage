@@ -11,6 +11,7 @@ Over here, I hope you will find something interesting.
 
 [数学物理方法-北京大学物理学院邓卫真教授](http://jiaxuanli.me/Homepage/physics/2017/12/08/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95.html)
 
+[冷水浴的好处](http://www.a-hospital.com/w/%E5%86%B7%E6%B0%B4%E6%B5%B4%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%9D%9A%E6%8C%81%E5%81%9A%E7%9A%84%E8%BF%90%E5%8A%A8)
 ---
 ### Info
 - Name: Jianwen Wang
